@@ -1,0 +1,11 @@
+div.box{
+    width: 150px;
+    height: 150px;
+    background-color: bisque;
+    border: 1px solid black;
+    text-align: center;
+    line-height: 150px;
+    border-radius: 50%;
+    
+
+}
